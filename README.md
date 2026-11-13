@@ -4,7 +4,7 @@
 
 A 3D interactive portfolio showcasing my projects, technical skills and journey as a Computer Science and Engineering student.
 
-Built with Next.js, React, TypeScript and Three.js.
+[🌐 Visit My Portfolio](https://smriti-3d-portfolio.vercel.app/)
 
 </div>
 
@@ -14,7 +14,7 @@ Built with Next.js, React, TypeScript and Three.js.
 
 I'm Smriti Ranjan, a Computer Science and Engineering student interested in backend development, Java, Spring Boot and modern AI-powered applications.
 
-This portfolio is a place to showcase the projects I've built, the technologies I've explored and my interest in creating practical software solutions.
+This portfolio showcases the projects I've built, the technologies I've explored and my interest in creating practical software solutions.
 
 ## Features
 
@@ -43,13 +43,12 @@ A responsive recipe discovery application using TheMealDB API, with asynchronous
 
 ## Tech Stack
 
-- **Languages:** Java, JavaScript, TypeScript
-- **Frontend:** React, Next.js, HTML5, CSS3, Tailwind CSS
-- **3D & Animation:** Three.js, React Three Fiber, Motion
-- **Backend:** Java, Spring Boot, REST APIs
-- **Databases:** PostgreSQL, MySQL, Supabase
+- **Languages:** Java, JavaScript, SQL
+- **Backend:** Spring Boot, Spring Web MVC, REST APIs, Hibernate/JPA
+- **Databases:** PostgreSQL, MySQL, H2
 - **AI & Vector Search:** RAG, pgvector, Ollama, Embeddings
-- **Tools:** Git, GitHub, Docker, Maven
+- **Frontend:** HTML5, CSS3, JavaScript
+- **Tools:** Git, GitHub, Maven, Docker, Swagger/OpenAPI
 
 ---
 
